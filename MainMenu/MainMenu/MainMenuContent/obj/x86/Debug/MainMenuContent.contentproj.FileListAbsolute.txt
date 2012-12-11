@@ -1,0 +1,7 @@
+E:\XNA\MainMenu\MainMenu\MainMenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\XNA\MainMenu\MainMenu\MainMenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\XNA\MainMenu\MainMenu\MainMenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ankirama\Desktop\Nouveau dossier (2)\XNA\MainMenu\MainMenu\MainMenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Nouveau dossier (2)\XNA\MainMenu\MainMenu\MainMenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ankirama\Desktop\XNA\MainMenu\MainMenu\MainMenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ankirama\Desktop\Bureau\XNA\MainMenu\MainMenu\MainMenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
